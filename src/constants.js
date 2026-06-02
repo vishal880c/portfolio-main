@@ -38,6 +38,7 @@ import webverseLogo from './assets/company_logo/webverse_logo.png';
 import agcLogo from './assets/company_logo/agc_logo.png';
 import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
+
 // Education Section Logo's
 import titlogo from './assets/education_logo/tit_logo.jpg'
 import cdLogo from './assets/education_logo/cd_logo.png'
@@ -97,6 +98,7 @@ export const SkillsInfo = [
       { name: 'TypeScript', logo: typescriptLogo },
     ],
   },
+   
   {
     title: 'Tools',
     skills: [

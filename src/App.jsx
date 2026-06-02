@@ -8,6 +8,7 @@ import Education from "./components/Education/Education";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import BlurBlob from './components/BlurBlob';
+import Gallery from "./components/Gallery/gallery";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
         <Navbar />
         <About />
         <Skills />
+        <Gallery/>
         <Experience />
         <Work />
         <Education />
